@@ -1,0 +1,12 @@
+{
+  "name": "png-compressor-plugin",
+  "owner": { "name": "Muhammad Talha", "url": "https://comprimirpng.com" },
+  "metadata": { "description": "PNG tools for Claude, built by the team behind comprimirpng.com." },
+  "plugins": [
+    {
+      "name": "png-compressor",
+      "source": "./",
+      "description": "Compress PNG images on your own computer: smart palette compression, lossless mode, target file size, resize and metadata removal. Nothing is uploaded."
+    }
+  ]
+}

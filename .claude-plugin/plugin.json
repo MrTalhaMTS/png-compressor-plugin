@@ -1,0 +1,21 @@
+{
+  "name": "png-compressor",
+  "displayName": "PNG Compressor",
+  "version": "1.0.0",
+  "description": "Compress PNG images on your own computer: smart palette compression, lossless mode, target file size, resize and metadata removal. Nothing is uploaded.",
+  "author": {
+    "name": "Muhammad Talha",
+    "url": "https://comprimirpng.com"
+  },
+  "homepage": "https://comprimirpng.com",
+  "repository": "https://github.com/MrTalhaMTS/png-compressor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "png",
+    "image",
+    "compression",
+    "optimize",
+    "lossless",
+    "metadata"
+  ]
+}
