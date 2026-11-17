@@ -16,8 +16,6 @@ Everything runs locally on your machine. The plugin never makes network requests
 /plugin install png-compressor@png-compressor-plugin
 ```
 
-Once the plugin is listed in the Claude directory you can also install it from there.
-
 ## Tools
 
 | Tool                  | What it does                                                                                                                                   | Writes files?                  |
